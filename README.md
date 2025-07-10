@@ -1,2 +1,0 @@
-# SyriaShop
-SyriaShop
